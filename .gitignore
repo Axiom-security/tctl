@@ -7,7 +7,6 @@
 .DS_Store
 
 # Executables
-/tctl
 /tctl-authorization-plugin
 /bin
 
